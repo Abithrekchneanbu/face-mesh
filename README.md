@@ -1,72 +1,15 @@
-Face Mesh — Real-time 3D Face Landmark Detection
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🎭+Face+Mesh+Detection;468+Facial+Landmarks;Real-time+Webcam+AI;MediaPipe+%2B+OpenCV" alt="Typing SVG" />
+<br/>
+Show Image
 
-Real-time **468-point face mesh** detection using **MediaPipe** and **OpenCV** in Python.
-Detects facial landmarks live from your webcam — runs entirely on CPU!
+Show Image
 
+Show Image
 
-Demo
+Show Image
 
-Run the project to see real-time green face mesh overlay on your webcam feed.
-
-
-
-Features
-
-468 3D facial landmark detection
-Real-time webcam feed
-Lightweight — runs on CPU only
-Works on Windows, Mac, Linux
-Auto-downloads the model on first run (~1MB)
-
-
-Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| [MediaPipe](https://mediapipe.dev/) | Face landmark detection model |
-| [OpenCV](https://opencv.org/) | Webcam capture & drawing |
-| Python 3.11 | Core language |
-
-
-Installation
-
-1.Clone the repository
-bash
-git clone https://github.com/Abithrekchneanbu/face-mesh.git
-cd face-mesh
-
-
-2.Create virtual environment
-bash
-Windows
-python -m venv venv
-venv\Scripts\activate
-
-Mac/Linux
-python3 -m venv venv
-source venv/bin/activate
-
-
-3.Install dependencies
-bash
-pip install -r requirements.txt
-
-
-4.Run
-bash
-python face.py
-
-
-The model file `face_landmarker.task` (~1MB) will be downloaded automatically on first run.
-
-
-
-Controls
-
-| Key | Action |
-|-----|--------|
-| `Q` | Quit the application |
-
-
-
-Project Structure
+Show Image
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
