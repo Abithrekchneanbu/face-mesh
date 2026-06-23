@@ -1,6 +1,8 @@
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00FF41,100:0d0d0d&height=220&section=header&text=🎭%20Face%20Mesh%20Detection&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Real-time%20468%20Facial%20Landmarks%20%7C%20MediaPipe%20%2B%20OpenCV%20%7C%20Python%203.11&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=250&section=header&text=Face%20Mesh%20Detection&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-time%20468%20Facial%20Landmarks%20%7C%20MediaPipe%20%2B%20OpenCV%20%7C%20Python%203.11&descAlignY=58&descSize=18&descColor=00ff41"/>
+
 
 <br/>
 
@@ -18,7 +20,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 </div>
 
@@ -33,7 +35,7 @@ I built this because I wanted to understand how modern facial AR filters work un
 > *"The best way to learn computer vision is to build something you can literally see working in real time."*
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
 ---
@@ -69,7 +71,6 @@ Google's MediaPipe team trained a neural network on millions of faces to identif
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -98,7 +99,6 @@ Google's MediaPipe team trained a neural network on millions of faces to identif
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -152,7 +152,6 @@ Instead of running the detector every frame (slow), MediaPipe tracks your face f
 OpenCV takes those 468 coordinate pairs and draws green circles at each point, then connects them with lines to form the visible mesh.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -182,7 +181,6 @@ OpenCV takes those 468 coordinate pairs and draws green circles at each point, t
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -195,7 +193,6 @@ OpenCV takes those 468 coordinate pairs and draws green circles at each point, t
 > 📌 Note: `face_landmarker.task` is auto-downloaded at runtime and excluded from the repo via `.gitignore` to keep the repo lightweight.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -217,7 +214,6 @@ OpenCV takes those 468 coordinate pairs and draws green circles at each point, t
 > 💡 Just press `Q` while the webcam window is focused to exit cleanly.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -246,7 +242,6 @@ This project is a **foundation** — once you have 468 landmark points, you can 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -336,7 +331,6 @@ cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 </details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -364,7 +358,6 @@ Contributions are welcome! If you want to improve this project:
 - Add screenshot save feature with `S` key
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -378,7 +371,6 @@ Contributions are welcome! If you want to improve this project:
 This project is licensed under the **MIT License** — feel free to use it, modify it, and build on top of it. Just give credit! 🙏
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
